@@ -1,0 +1,3 @@
+﻿QUe=input()
+print(QUe)
+
